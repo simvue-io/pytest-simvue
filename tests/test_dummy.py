@@ -8,3 +8,4 @@ def test_thing(simvue):
 def test_other_thing(simvue):
     time.sleep(5)
     assert False
+
